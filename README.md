@@ -262,7 +262,7 @@ nsd-control force_transfer pulvere.space
 Maintenant, vérifiez si ce serveur peut répondre aux requêtes du domaine **awayfrom.network**.
 
 ```
-dig ANY . @localhost +norec +short
+dig ANY awayfrom.network. @localhost +norec +short
 ```
 
 Si cela renvoie le même résultat que le maître, cette zone est configurée correctement. Répétez la commande pour le domaine * foorbar.org * pour vérifier si sa zone est correctement configurée.
