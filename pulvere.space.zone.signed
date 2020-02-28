@@ -1,0 +1,18 @@
+pulvere.space.  3600    IN      SOA     pulvere.space. contact.awayfrom.network. 2020022401 10800 3600 604800 86400
+pulvere.space.  3600    IN      RRSIG   SOA 7 2 3600 20200326082622 20200227082622 12683 pulvere.space. dNv284DYv/EMlWEjtGZcKzu9hMczjCpf7nV0zIaag86Eq8KCqxz5hk/ZAdX3O0b+Bc1kJN9q0dyqEXbvbo2jAINjddi+zAqxv3MoUxJLRcpgs5tQVXAkZz7hxD96q4gn+wlX2rlfcycx60ra+fQGHT1KhuykjF1RP3A99seHwZ0=
+pulvere.space.  3600    IN      A       77.202.221.174
+pulvere.space.  3600    IN      RRSIG   A 7 2 3600 20200326082622 20200227082622 12683 pulvere.space. W42bfQXpoVLMOEIxfRlwgEGlL9yrjKSQnOOQulj8cJrankRmOOwa+4aZqpfYdzdV8IOJcVolOlMIFkoMva/nF4L2s/5kj3YjurPeQpf2mAVDRfF+J6rsjY2rqMwQfJVEF//1N649dNk6Ya/HXSyZsYijSqGUv13OOWyLkYFjGMc=
+pulvere.space.  3600    IN      NS      ns1.awayfrom.network.
+pulvere.space.  3600    IN      NS      ns2.awayfrom.network.
+pulvere.space.  3600    IN      RRSIG   NS 7 2 3600 20200326082622 20200227082622 12683 pulvere.space. BM2cxLE/Qm9eJVVz3cxoT5z8L+36XBfjkPnJSwUci314cxq6zf80obComLcatRB8yHEBi7awbHUnaf506QmnJR0FgIPlfAaArjExTYDUZFO/xI0mm57iZ4gOv5BOpCsFPOl0Rp/O3pBDOYvGTYvxWZa19Ff+8dTE2hR8TOt8/n4=
+pulvere.space.  3600    IN      MX      50 mail.pulvere.space.
+pulvere.space.  3600    IN      RRSIG   MX 7 2 3600 20200326082622 20200227082622 12683 pulvere.space. fIvH0bpXveB8gnbblPrE3AAjBy2a46l4uGRe0fsE4kslu8tWJiRzS7z+Pb3v4ygDR34uJ/AZnBUIuQWCoyOY8z0zjrRRGKvUQUtYpeUC8taiv6nkkC6wlYdcWZTHR8PBSOlcCb5gJDrAlMLFHk/QTFwuTDFh8flj5UhxI1s44sY=
+pulvere.space.  3600    IN      DNSKEY  256 3 7 AwEAAb12Po8G1DbyccnKQYZDhfLfJxZJmFQM5GNTtEgcitURM31nwx12hHaHIVs9GP0hqXLBW18MOfZZ3tf4uZZ8Lsc0cwSKyt2WLMNMEjIVuBwvs16sFbx83bVWg9K3nHq1zXN6u8TztKwAqe4fRX3DRRfj2BD9mpXCg9crvUL1M++p ;{id = 12683 (zsk), size = 1024b}
+pulvere.space.  3600    IN      DNSKEY  257 3 7 AwEAAcpBfsW0/8hsF1Dun3C/iUqrBK6kYPsEo1xfWe/vQuZggtjKudX6hId4v3rxkK8EleyzT/AqTYSF8k7rLKX0VeVs+BiRNzHQmIHhAf+dvmZkTVU5U0PkheFzXCP6zx1rwVQbZ69cVaQLRj7v56BEurbZfp1l14eKIAnQ81P0rY/uc1/Q6/ME3REX32K5RWMXIS8bjNrt1TazLmmOri0WiYLtjPNZd+Om0pnhdv/BrpLpFZcGvFY1/orRITvLg9G+1ycFIYysZgUaNgraLp5ldyMyQJcB7P2b4CxSV4d3asEO0NOLAhb5U38SEyEWPEEeSOufdbvMH/llUBvHt1ZHwXE= ;{id = 11331 (ksk), size = 2048b}
+pulvere.space.  3600    IN      RRSIG   DNSKEY 7 2 3600 20200326082622 20200227082622 11331 pulvere.space. AAqfPDnlrJwry5fwKNKQpOd0rh2f6IV2Tq+gALU5D57Q5zdCfQX6hjBRPPnSFsWXfYgmGBwjwnX2wLN7jkVfUeWF/8ACJLkjC4Ae0Lx6xdA3vQsiTxZmvzgkasNTGqP7Vhncuc3roMU4hZzgQnD/5PhmynkxVWa01AOZ3ZhTE/iXi9wmggG95tntZ3jfd/w3vfvWbBNvEL9MbtJf3JOJI25sRYvYVzQMZ9gp7szxlnm4+H8uEEqXh8UGwBzPJlTMEJqnwaZvLkic9+mR11oSAhqYn6GFGarN8PK8e0GUgb3TYN3fNTKxRsh+OlyQIHjJU21+wHNsjEfiNem+kayh4g==
+pulvere.space.  86400   IN      NSEC    www.pulvere.space. A NS SOA MX RRSIG NSEC DNSKEY
+pulvere.space.  86400   IN      RRSIG   NSEC 7 2 86400 20200326082622 20200227082622 12683 pulvere.space. qMHkn1rBkiShr3U4LjN20LzPJIwnd6cS7A5aGn7cw5zkMk6a0JFXoqlnOZEMCNAAu5WD66rtoGgOVomeXD8S9CvyZ7XylfkmetN+EGfaKdPp++e8BkhEv4pHJdCJ3hrr+HTjpSTGwsptrKjft6zFlWtq5OmPTvH8lNKkSQWn/rM=
+www.pulvere.space.      3600    IN      CNAME   77.202.221.174.pulvere.space.
+www.pulvere.space.      3600    IN      RRSIG   CNAME 7 3 3600 20200326082622 20200227082622 12683 pulvere.space. S6ruTKaxsVJfwiW+C3ow1fNJ0LPEPCrY9LyXBxnTgTV1SGucKumuw2O9rvdydFqQu7H2pN4TflarZ07z43gy+LTXohtKfiWhyVDybq1xs/cmJz/mrkmzWBWOyer1Shn1G9QOUfZfm2u8PWxV8ZdlZ+958xhYIkP6pypuEbeax/Y=
+www.pulvere.space.      86400   IN      NSEC    pulvere.space. CNAME RRSIG NSEC
+www.pulvere.space.      86400   IN      RRSIG   NSEC 7 3 86400 20200326082622 20200227082622 12683 pulvere.space. klo20ocp8sMK4ItM+bivqBUR+xHzg1sRMGLopqXpijKA2CauDHOX1dKguarpaTuCFyulG376+6ZqmGvmW0PL7aPdjrj0n91FtVBI8vMkwx2LGaDzS8+X1+A1/cuC9DzRO9xeNwnwKRi8O/PuDnuwmEyJWIuo4OJ50A8+0e/Dimk=
